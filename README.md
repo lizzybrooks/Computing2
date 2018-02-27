@@ -12,6 +12,7 @@
 * [Hex hacking activity](https://github.com/lizzybrooks/Hex-Memory)
 
 ## Pixels Project
+* [Everyone's Finished Project](https://lizzybrooks.github.io/pixelsProject/)
 * [repo](https://github.com/lizzybrooks/pixelsProject)
 * [rubric](https://docs.google.com/spreadsheets/d/1gjmgkMsPOTX1_vrfAiLvYJhuuomyxJPCz-fxnbw2QoQ/edit?usp=sharing)
 #### Inspirations, Libraries, and Links
