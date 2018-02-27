@@ -1,11 +1,11 @@
 # Computing 2 HUB
 ### This page holds links to everything useful for Lick-Wilmerding High School's Computing 2 Class
 
-## * [Syllabus](https://goo.gl/oF5iuN)
+## [Syllabus](https://goo.gl/oF5iuN)
 
-## * Early Activities
+## Early Activities
 
-## * Pixels Project
+## Pixels Project
 * rubric
 
-## * Languages Project
+## Languages Project
