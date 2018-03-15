@@ -22,3 +22,4 @@
 
 ## Languages Project
 * [repo](https://github.com/lizzybrooks/LanguagesProject)
+* [rubric](https://docs.google.com/spreadsheets/d/1gjmgkMsPOTX1_vrfAiLvYJhuuomyxJPCz-fxnbw2QoQ/edit?usp=sharing)
