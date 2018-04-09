@@ -25,4 +25,5 @@
 * [rubric](https://docs.google.com/spreadsheets/d/1gjmgkMsPOTX1_vrfAiLvYJhuuomyxJPCz-fxnbw2QoQ/edit?usp=sharing)
 
 ## Community Computing Project
+* [Project Blog](https://sites.google.com/lwhs.org/community-computing/home?authuser=1)
 * [Project proposals](https://docs.google.com/document/d/1pmcosDxWOI1KinN0qqJjlFPUWd7ivUqKalisTWGMJrM/edit?usp=sharing)
